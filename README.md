@@ -17,7 +17,7 @@ This repository contains a simple example of a parking system with spring boot.
   * Java 11
   * Maven
   * Spring Boot
-  * Lombook
+  * Lombok
   * Mapstruct
   * Hibernate
   * H2 Inmemory Database
