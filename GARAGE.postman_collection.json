@@ -1,0 +1,196 @@
+{
+	"info": {
+		"_postman_id": "71a9898e-27a8-40b7-8e73-6ca066388337",
+		"name": "GARAGE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "park black car",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"plate\": \"34-SO-1988\",\n    \"color\": \"Black\",\n    \"vehicleType\": \"CAR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/park",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"park"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "park red truck",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"plate\": \"34-BO-1987\",\n    \"color\": \"Red\",\n    \"vehicleType\": \"TRUCK\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/park",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"park"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "park blue jeep",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"plate\": \"34-VO-2018\",\n    \"color\": \"Blue\",\n    \"vehicleType\": \"JEEP\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/park",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"park"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "park black truck",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"plate\": \"34-HBO-2020\",\n    \"color\": \"Black\",\n    \"vehicleType\": \"TRUCK\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/park",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"park"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "leave",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "3",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/leave",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"leave"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "park black truck Copy",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"plate\": \"34-LO-2000\",\n    \"color\": \"White\",\n    \"vehicleType\": \"CAR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8080/park",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"park"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		},
+		{
+			"name": "status",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/status",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"status"
+					]
+				},
+				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+			},
+			"response": []
+		}
+	]
+}
