@@ -19,11 +19,15 @@ This repository contains a simple example of a parking system with spring boot.
   * Spring Boot
   * Lombook
   * Mapstruct
+  * Hibernate
+  * H2 Inmemory Database
   
 <a name="dependencies"/></a>
 ## Dependencies
   * Lombok
   * Mapstruct
+  * Hibernate
+  * H2 Inmemory Database
 
 <a name="requirements"/></a>
 ## Pre requirements
