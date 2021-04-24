@@ -18,10 +18,12 @@ This repository contains a simple example of a parking system with spring boot.
   * Maven
   * Spring Boot
   * Lombook
+  * Mapstruct
   
 <a name="dependencies"/></a>
 ## Dependencies
   * Lombok
+  * Mapstruct
 
 <a name="requirements"/></a>
 ## Pre requirements
