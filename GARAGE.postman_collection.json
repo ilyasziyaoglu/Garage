@@ -29,7 +29,7 @@
 						"park"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -57,7 +57,7 @@
 						"park"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -85,7 +85,7 @@
 						"park"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -113,7 +113,7 @@
 						"park"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -141,7 +141,7 @@
 						"leave"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -169,7 +169,7 @@
 						"park"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		},
@@ -188,7 +188,7 @@
 						"status"
 					]
 				},
-				"description": "This endpoint creates a car. \n\nThis endpoint just require a car type as strin request body. Devfined car types listed below:\n    \n    \"cabrio\", \"sedan\", \"hatchback\"\n\nResponse is also a string. That givs information about process result. For example:\n \n Success: \"Cabrio Car has produced.\"\n Fail: \"Car can not created. Car type is invalid!\"\n    "
+				"description": ""
 			},
 			"response": []
 		}
