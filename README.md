@@ -1,6 +1,6 @@
-# Factory pattern with spring boot
+# Garage
 
-This repository contains a simple example of factory design pattern with spring boot
+This repository contains a simple example of a parking system with spring boot.
 
 ### Table of Contents  
 [Technologies](#technologies)<br>
