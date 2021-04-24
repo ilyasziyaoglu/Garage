@@ -44,7 +44,7 @@ This repository contains a simple example of a parking system with spring boot.
 ## Installing
   * To build project, before go into project folder bash, powershall or terminal and run above code snippet.<br>
     `mvn clean install`<br>
-    If everything goes well you will see the last `BUILD SUCCESS` post.
+    If everything goes well you will see the last `BUILD SUCCESS` message.
 
 <a name="run"/></a>
 ## Run Project
