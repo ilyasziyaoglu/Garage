@@ -32,7 +32,7 @@ This repository contains a simple example of factory design pattern with spring 
 <a name="download"/></a>
 ## Download
   * First of all you need to clone this project. For this, if you have installed git then you can run above code snippet in bash, powershall or terminal.<br>
-      `git clone https://github.com/ilyasziyaoglu/Car-Factory.git`<br>
+      `git clone https://github.com/ilyasziyaoglu/Garage.git`<br>
     or you can download from github.com project page as a `.zip` file directly and extract.
 
 <a name="runtests"/></a>
@@ -49,9 +49,8 @@ This repository contains a simple example of factory design pattern with spring 
 <a name="run"/></a>
 ## Run Project
   * To run project run above code snippet. After this process, it will start to accept requests over port 8080 with the embedded tomcat server.<br>
-    `java -jar ./target/carfactory-0.0.1-SNAPSHOT.jar`<br>
+    `java -jar ./target/garage-0.0.1-SNAPSHOT.jar`<br>
 
 <a name="using"/></a>
 ## Using
-  * To make a request for this project, you can use the Postman collection in the project or run the following `curl` command from the terminal.<br>
-    `curl --location --request POST 'http://localhost:8080/' --header 'Content-Type: text/plain' --data-raw 'cabrio'`
+  * To make a request for this project, you can use the Postman collection in the project
